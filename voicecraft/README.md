@@ -59,6 +59,8 @@ Make sure you have the following installed on your machine:
 Install the project dependencies using npm:
 
 ```bash
+npx create-next-app@latest
+
 npm install
 ```
 
